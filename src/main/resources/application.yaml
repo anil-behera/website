@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: student
+      host: localhost
+      port: 27017
+      username: rootuser
+      password: rootpass
+      authentication-database: admin
